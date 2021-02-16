@@ -9,7 +9,7 @@ import java.util.Date;
 
 public class FillingOfForm {
 private final String city;
-private Date dateOfMeeting;
+private String dateOfMeeting;
 private final String fullName;
 private final String phone;
 }
